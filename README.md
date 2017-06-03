@@ -1,6 +1,6 @@
 # char
 
-[![NPM](https://nodei.co/npm/char.png)](https://nodei.co/npm/char/)
+[![NPM](https://nodei.co/npm/char.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/char/)
 
 > Return the string representing a character whose Unicode code point is the integer `code`.  
 ES6 implementation of **[`Python built-in chr()`](https://docs.python.org/3.6/library/functions.html#chr)** function
