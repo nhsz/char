@@ -2,9 +2,10 @@
 
 [![NPM](https://nodei.co/npm/char.png)](https://nodei.co/npm/char/)
 
-> Return the string representing a character whose Unicode code point is the integer `code`. ES6 implementation of **[`Python built-in chr()`](https://docs.python.org/3.6/library/functions.html#chr)** function
+> Return the string representing a character whose Unicode code point is the integer `code`.  
+ES6 implementation of **[`Python built-in chr()`](https://docs.python.org/3.6/library/functions.html#chr)** function
 
-This is the inverse of ordr.
+This is the inverse of **[`ordr`](https://www.npmjs.com/package/ordr)**.
 
 **The valid range for the argument is from 0 through 1114111 (0x10FFFF in base 16)**. RangeError will be raised if `code` is outside that range.
 
