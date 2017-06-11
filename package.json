@@ -1,6 +1,6 @@
 {
   "name": "char",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Return the string representing a character whose Unicode code point is the integer code",
   "main": "index.js",
   "scripts": {
