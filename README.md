@@ -19,7 +19,7 @@ This is the inverse of **[`ordr`](https://www.npmjs.com/package/ordr)**.
 ## Install
 
 ```
-$ npm install --save char
+$ npm install char
 ```
 
 
