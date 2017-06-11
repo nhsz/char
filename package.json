@@ -4,8 +4,7 @@
   "description": "Return the string representing a character whose Unicode code point is the integer code",
   "main": "index.js",
   "scripts": {
-    "test": "ava",
-    "prepublish": "npm test"
+    "test": "nyc --reporter=html --reporter=text ava"
   },
   "repository": {
     "type": "git",
@@ -29,6 +28,8 @@
   },
   "homepage": "https://github.com/nhsz/char#readme",
   "devDependencies": {
-    "ava": "^0.19.1"
+    "ava": "^0.19.1",
+    "coveralls": "^2.13.1",
+    "nyc": "^11.0.2"
   }
 }

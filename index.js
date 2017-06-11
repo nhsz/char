@@ -1,5 +1,5 @@
 'use strict'
 
-module.exports = (code) => {
+module.exports = code => {
   return String.fromCodePoint(code)
 }
